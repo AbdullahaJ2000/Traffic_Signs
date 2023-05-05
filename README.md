@@ -81,20 +81,20 @@ In this class we only focused on Image processing approach but we can find bette
 
 # References 
 
-https://docs.opencv.org/3.4/d8/d01/group__imgproc__color__conversions.html#ga397ae87e1288a81d2363b61574eb8cab
-https://docs.opencv.org/3.4/da/d5c/tutorial_canny_detector.html
-https://docs.opencv.org/3.4/d1/d10/classcv_1_1ximgproc_1_1ThinningLayer.html
-https://docs.opencv.org/3.4/dd/d49/tutorial_py_contour_features.html
-https://docs.opencv.org/3.4/d2/de8/group__core__array.html#ga60b4d04b251ba5eb1392c34425497e14
-https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html#gaa9e58d2860d4afa658ef70a9b1115576
-https://www.tensorflow.org/tutorials/images/classification
-https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
-https://www.youtube.com/watch?v=onWJQY5oFhs&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&start_radio=1&rv=onWJQY5oFhs&t=246
-https://www.youtube.com/watch?v=4pYyD2uSeko&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=2
-https://www.youtube.com/watch?v=G8yp6f9V_6c&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=15
-https://www.youtube.com/watch?v=hUC1uoigH6s&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=30
-https://www.youtube.com/watch?v=3VkkDd0rEoE&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=48
-https://www.youtube.com/watch?v=XRBc_xkZREg&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=50
+- https://docs.opencv.org/3.4/d8/d01/group__imgproc__color__conversions.html#ga397ae87e1288a81d2363b61574eb8cab
+- https://docs.opencv.org/3.4/da/d5c/tutorial_canny_detector.html
+- https://docs.opencv.org/3.4/d1/d10/classcv_1_1ximgproc_1_1ThinningLayer.html
+- https://docs.opencv.org/3.4/dd/d49/tutorial_py_contour_features.html
+- https://docs.opencv.org/3.4/d2/de8/group__core__array.html#ga60b4d04b251ba5eb1392c34425497e14
+- https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html#gaa9e58d2860d4afa658ef70a9b1115576
+- https://www.tensorflow.org/tutorials/images/classification
+- https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+- https://www.youtube.com/watch?v=onWJQY5oFhs&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&start_radio=1&rv=onWJQY5oFhs&t=246
+- https://www.youtube.com/watch?v=4pYyD2uSeko&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=2
+- https://www.youtube.com/watch?v=G8yp6f9V_6c&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=15
+- https://www.youtube.com/watch?v=hUC1uoigH6s&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=30
+- https://www.youtube.com/watch?v=3VkkDd0rEoE&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=48
+- https://www.youtube.com/watch?v=XRBc_xkZREg&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=50
 
 
 
