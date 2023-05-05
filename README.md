@@ -44,7 +44,26 @@ This method pastes the traffic sign image onto a random location on a background
 
 # steps
 
-
+## Gray
+![Gray](https://github.com/AbdullahaJ2000/forme/blob/main/steps/gray.png?raw=true)
+### 2)Gray_blur
+![Gray_blur](https://github.com/AbdullahaJ2000/forme/blob/main/steps/gray_blur.png?raw=true)
+### 3)Edges
+![Edges](https://github.com/AbdullahaJ2000/forme/blob/main/steps/edges.png?raw=true)
+## 4)Dilated_edges
+![Dilated_edges](https://github.com/AbdullahaJ2000/forme/blob/main/steps/dilated_edges.png?raw=true)
+## 5)Thinning
+![Thinning](https://github.com/AbdullahaJ2000/forme/blob/main/steps/thinned_img.png?raw=true)
+## 6)mask
+![mask](https://github.com/AbdullahaJ2000/forme/blob/main/steps/mask.png?raw=true)
+## 7)RemoveBackground
+![RemoveBackground](https://github.com/AbdullahaJ2000/forme/blob/main/steps/RemoveBackground.png?raw=true)
+## 8)FadedToRmoveBlackBackground
+![FadedToRmoveBlackBackground](https://github.com/AbdullahaJ2000/forme/blob/main/steps/FadedToRmoveBlackBackground.png?raw=true)
+## 9)Faded_Img
+![Faded_Img](https://github.com/AbdullahaJ2000/forme/blob/main/steps/faded_img.png?raw=true)
+## 10) Past_on_background_image 
+![Past_on_background_image](https://github.com/AbdullahaJ2000/forme/blob/main/Final_output/final_result.png?raw=true)
 
 # Recommendations 
 
