@@ -63,7 +63,7 @@ This method pastes the traffic sign image onto a random location on a background
 ## 9)Faded_Img
 ![Faded_Img](https://github.com/AbdullahaJ2000/forme/blob/main/steps/faded_img.png?raw=true)
 ## 10) Past_on_background_image 
-![Past_on_background_image](https://github.com/AbdullahaJ2000/forme/blob/main/Final_output/final_result.png?raw=true)
+
 
 # Recommendations 
 
