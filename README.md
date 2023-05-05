@@ -42,6 +42,9 @@ This method removes the black background of the faded image by creating a mask w
 8. PasteOnBackground(background_path)
 This method pastes the traffic sign image onto a random location on a background image. The method takes the path of the background image as an argument. The method first loads the background image and then calls the FadedToRmoveBlackBackground method to remove the black background of the faded image. A random location is generated to paste the image, and a mask is created for the image. The image is blended with the background using the mask to create a final image. The final image is then returned.
 
+# steps
+
+
 
 # Recommendations 
 
