@@ -95,7 +95,10 @@ In this class we only focused on Image processing approach but we can find bette
 - https://www.youtube.com/watch?v=hUC1uoigH6s&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=30
 - https://www.youtube.com/watch?v=3VkkDd0rEoE&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=48
 - https://www.youtube.com/watch?v=XRBc_xkZREg&list=RDCMUCf0WB91t8Ky6AuYcQV0CcLw&index=50
-
+- Wali, S. B., Hannan, M. A., Hussain, A., & Samad, S. A. (2015). Comparative survey on traffic sign detection and recognition: a review. Przeglad Elektrotechniczny, 91(12), 38-42.
+- Wali, S. B., Hannan, M. A., Hussain, A., & Samad, S. A. (2015). An automatic traffic sign detection and recognition system based on colour segmentation, shape matching, and svm. Mathematical Problems in Engineering, 2015.
+- Mehta, S., Paunwala, C., & Vaidya, B. (2019, May). CNN based traffic sign classification using adam optimizer. In 2019 international conference on intelligent computing and control systems (ICCS) (pp. 1293-1298). IEEE.
+- Wu, Y., Liu, Y., Li, J., Liu, H., & Hu, X. (2013, August). Traffic sign detection based on convolutional neural networks. In The 2013 international joint conference on neural networks (IJCNN) (pp. 1-7). IEEE.
 
 
 
